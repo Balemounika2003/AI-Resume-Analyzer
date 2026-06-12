@@ -1,0 +1,1 @@
+export default function SkillsCard(){return <div>Skills</div>}
